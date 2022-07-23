@@ -1,2 +1,2 @@
 # git_projecttrail
-this if trail project of git
+this is for trail project of git
